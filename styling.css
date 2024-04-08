@@ -420,23 +420,23 @@ section .title {
     }
 
 .skills-content .right .Azure::before {
-    width: 80%; backgroud-color: #DC143C;
+    width: 80%; background-color: #DC143C;
 }
 
 .skills-content .right .NetworkAdministration::before {
-    width: 70%; backgroud-color: #DC143C;
+    width: 70%; background-color: #DC143C;
 }
 
 .skills-content .right .AzureDevOps::before {
-    width: 70%; backgroud-color: #DC143C;
+    width: 70%; background-color: #DC143C;
 }
 
 .skills-content .right .LinuxSystemAdministration::before {
-    width: 70%; backgroud-color: #DC143C;
+    width: 70%; background-color: #DC143C;
 }
 
 .skills-content .right .CloudSecurity::before {
-    width: 70%; backgroud-color: #DC143C;
+    width: 70%; background-color: #DC143C;
 }
 
 /* teams section styling */
