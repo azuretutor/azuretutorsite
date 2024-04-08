@@ -423,19 +423,19 @@ section .title {
     width: 80%; 
 }
 
-.skills-content .right .Network Administration::before {
+.skills-content .right .NetworkAdministration::before {
     width: 70%;
 }
 
-.skills-content .right .Azure DevOps::before {
+.skills-content .right .AzureDevOps::before {
     width: 70%;
 }
 
-.skills-content .right .Linux System Administration::before {
+.skills-content .right .LinuxSystemAdministration::before {
     width: 70%;
 }
 
-.skills-content .right .Cloud Security::before {
+.skills-content .right .CloudSecurity::before {
     width: 70%;
 }
 
