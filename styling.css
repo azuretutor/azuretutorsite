@@ -416,27 +416,27 @@ section .title {
         height: 100%;
         left: 0;
         top: 0;
-        background-color: crimson;
+        
     }
 
 .skills-content .right .Azure::before {
-    width: 80%; 
+    width: 80%; background-color: crimson;
 }
 
 .skills-content .right .NetworkAdministration::before {
-    width: 70%;
+    width: 70%; background-color: crimson;
 }
 
 .skills-content .right .AzureDevOps::before {
-    width: 70%; 
+    width: 70%; background-color: crimson;
 }
 
 .skills-content .right .LinuxSystemAdministration::before {
-    width: 70%;
+    width: 70%; background-color: crimson;
 }
 
 .skills-content .right .CloudSecurity::before {
-    width: 70%; 
+    width: 70%; background-color: crimson;
 }
 
 /* teams section styling */
