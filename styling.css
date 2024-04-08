@@ -416,27 +416,27 @@ section .title {
         height: 100%;
         left: 0;
         top: 0;
-        background: crimson;
+        background-color: #6495ED;
     }
 
 .skills-content .right .Azure::before {
-    width: 80%; background-color: #6495ED;
+    width: 80%; 
 }
 
-.skills-content .right .NetworkAdministration::before {
+.skills-content .right .Network Administration::before {
+    width: 70%;
+}
+
+.skills-content .right .Azure DevOps::before {
+    width: 70%; 
+}
+
+.skills-content .right .Linux System Administration::before {
     width: 70%; background-color: #DC143C;
 }
 
-.skills-content .right .AzureDevOps::before {
-    width: 70%; background-color: #DC143C;
-}
-
-.skills-content .right .LinuxSystemAdministration::before {
-    width: 70%; background-color: #DC143C;
-}
-
-.skills-content .right .CloudSecurity::before {
-    width: 70%; background-color: #DC143C;
+.skills-content .right .Cloud Security::before {
+    width: 70%; 
 }
 
 /* teams section styling */
