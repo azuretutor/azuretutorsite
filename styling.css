@@ -420,7 +420,7 @@ section .title {
     }
 
 .skills-content .right .Azure::before {
-    width: 80%; background-color: #DC143C;
+    width: 80%; background-color: #6495ED;
 }
 
 .skills-content .right .NetworkAdministration::before {
