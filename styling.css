@@ -423,19 +423,19 @@ section .title {
     width: 80%; background-color: crimson;
 }
 
-.skills-content .right .NetworkAdministration::before {
+.skills-content .right .Network Administration::before {
     width: 70%; background-color: crimson;
 }
 
-.skills-content .right .AzureDevOps::before {
+.skills-content .right .Azure DevOps::before {
     width: 70%; background-color: crimson;
 }
 
-.skills-content .right .LinuxSystemAdministration::before {
+.skills-content .right .Linux System Administration::before {
     width: 70%; background-color: crimson;
 }
 
-.skills-content .right .CloudSecurity::before {
+.skills-content .right .Cloud Security::before {
     width: 70%; background-color: crimson;
 }
 
